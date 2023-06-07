@@ -1,8 +1,5 @@
 # Financial-Calculator
 
-Choice of Investment; simple or compounded and Bond you have to pay on a home loan.
+This programme assists you to develope investment's interest, considering whether it follows a simple or compounded approach and calculates payment plan on a loan for you. 
 
-A programme that allows a user to calculate their interest on investment which may be simple or compounded over a certain amount of time
-or repayment plan amount per month by evaluating property value, interest rate and lastly the length of the repayment plan. 
-
-
+Additionally, the program can calculate the monthly repayment amount for a home loan, taking into account factors such as the property value, interest rate, and repayment duration.
